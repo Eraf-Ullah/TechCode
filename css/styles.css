@@ -1,0 +1,41 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+header.jumbotron {
+    background-color: #000;
+    color: #fff;
+}
+
+section {
+    padding: 60px 0;
+}
+
+section h2 {
+    margin-bottom: 30px;
+}
+
+.carousel-caption {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+#newsletter {
+    background-color: #f8f9fa;
+}
+
+footer {
+    background-color: #343a40;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+footer small {
+    color: rgba(255, 255, 255, 0.7);
+}
